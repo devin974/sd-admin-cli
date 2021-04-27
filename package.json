@@ -1,6 +1,6 @@
 {
   "name": "sd-admin-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "脚手架搭建",
   "main": "index.js",
   "bin": {
@@ -9,7 +9,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "git@github.com:devin974/sd-admin-cli.git",
   "keywords": [
+    "vue",
     "cli"
   ],
   "author": "devin",
